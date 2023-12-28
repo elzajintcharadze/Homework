@@ -1,0 +1,88 @@
+.menu{
+	text-align: right;
+}
+
+.menu ul a{
+text-decoration: none;
+list-style-type: none;
+width: 15%;
+display: inline-block;
+font-family: KA_LITERATURULI_MT;
+font-size: 25px;
+background-color: #403e39;
+color:#e8ae0e;
+padding: 10px;
+text-align: center;
+}
+
+.banner{
+	text-align: center;
+	background-color: gray;
+	background-image: url("suratebi/baneri.avif");
+	background-size: cover;
+	padding: 20px;
+
+}
+.satauri{
+font-family: KA_LITERATURULI_MT;
+font-size: 50px;
+color:#e8ae0e;
+}
+.gilaki{
+	width: 20%;
+	margin: auto;	
+background-color: #403e39;
+padding: 10px;
+text-align: center;
+}
+
+.gilaki a{
+	font-size: 25px;
+	color:#e8ae0e;
+	text-decoration: none;
+	font-family: KA_LITERATURULI_MT;
+
+}
+
+.car{
+	background-color: #403e39;
+	width: 20%;
+	padding: 20px;
+	text-align: center;
+	display: inline-block;
+}
+.container{
+	text-align: center;
+}
+.fasi,  .brand{
+	font-size: 25px;
+	color:white;
+	font-family: impact;
+}
+
+.registracia label{
+	font-size: 25px;
+	color: green;
+	font-family: KA_LITERATURULI_MT;
+
+}
+.registracia input[type=text]{
+	width: 300px;
+	font-size: 20px;
+	color: green;
+	padding: 5px;
+}
+.registracia input[type=submit]{
+	width: 250px;
+	font-size: 20px;
+	padding: 5px;
+	font-family: KA_LITERATURULI_MT;
+	font-size: 50px;
+	color:#e8ae0e;
+	background-color: #403e39;
+}
+
+
+
+
+
